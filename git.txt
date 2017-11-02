@@ -6,3 +6,4 @@ git push
 git status
 git log
 git log --oneline
+git commit -a -> Para hacer commit y add a la vez
